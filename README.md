@@ -1,5 +1,6 @@
 # Edhesive
 Edhesive AP Computer Science Activity and Assignments
 
-This is mainly for me to organize myself but if you finna cop this then leave me a star and don't get caught!
-
+All Java Source files for Activities/Assignments with comments.
+This is mainly to look back for review purposes but if you're falling behind you gotta do what u gotta do.
+¯\_(ツ)_/¯
