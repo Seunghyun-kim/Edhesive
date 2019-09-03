@@ -1,0 +1,18 @@
+import java.util.Scanner;
+import java.lang.Math;
+
+
+class Lesson_6_Activity_Two {
+    public static void main(String[] args) {
+    
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Please enter a decimal number.");
+        double myDouble = scan.nextDouble();
+        
+        int truncated = (int) myDouble;
+        
+        System.out.println(truncated);
+
+
+    }
+}
